@@ -1,0 +1,17 @@
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\SimsLib.dll
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\SimsLib.pdb
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Bass.Net.dll
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\LuaInterface.dll
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\NAudio.dll
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\lua51.dll
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Bass.Net.xml
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Content\ComicSans.xnb
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Content\ComicSansSmall.xnb
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Content\login.xnb
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Project Dollhouse Client.exe.config
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Project Dollhouse Client.exe
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\bin\x86\Debug\Project Dollhouse Client.pdb
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\obj\x86\Debug\Project Dollhouse Client.exe
+C:\Users\jk\Documents\Visual Studio 2010\Projects\TSOClient\TSOClient\TSOClient\obj\x86\Debug\Project Dollhouse Client.pdb
